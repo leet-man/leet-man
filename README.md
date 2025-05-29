@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leet-man
-- 👀 I’m interested in ... voxel game-dev and political quizes
-- 🌱 I’m currently learning ... java
+- 👀 I’m interested in ... web-dev and voxel game-dev
+- 🌱 I’m currently learning ... HTML/CSS, JavaScript, and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... leet-man@outlook.com, u/leet-man on reddit.com
 - 😄 Pronouns: ... he/him
